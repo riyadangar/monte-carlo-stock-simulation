@@ -20,7 +20,7 @@ How It Works:
 
 Example Output:
 
-  typical output plot shows multiple simulated stock price trajectories and a histogram of final prices after the chosen time horizon.
+Typical output plot shows multiple simulated stock price trajectories and a histogram of final prices after the chosen time horizon.
 
 Technologies Used:
 
